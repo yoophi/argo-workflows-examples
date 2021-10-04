@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargo_workflows_workshop=self.webpackChunkargo_workflows_workshop||[]).push([[857],{1435:function(o){o.exports=JSON.parse('{"allTagsPath":"/argo-workflows-workshop/blog/tags","slug":"/argo-workflows-workshop/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/argo-workflows-workshop/blog/tags/docusaurus"}')}}]);

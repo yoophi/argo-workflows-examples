@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkargo_workflows_workshop=self.webpackChunkargo_workflows_workshop||[]).push([[197],{157:function(o){o.exports=JSON.parse('{"allTagsPath":"/argo-workflows-workshop/blog/tags","slug":"/argo-workflows-workshop/blog/tags/hello","name":"hello","count":2,"permalink":"/argo-workflows-workshop/blog/tags/hello"}')}}]);
